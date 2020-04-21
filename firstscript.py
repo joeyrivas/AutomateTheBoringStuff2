@@ -1,0 +1,1 @@
+print("First script to test git integration")
